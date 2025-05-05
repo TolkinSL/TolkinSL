@@ -2,7 +2,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6A88F7&center=true&vCenter=true&width=500&lines=Welcome+to+my+space+%3A)" alt="Typing SVG" /></a>
 </p>
 <h1 align="center">Привет 👋, меня зовут Anatoly</h1>
-<h3 align="center">Я Frontend developer</h3>
 
 - 🌱 Я занимаюсь разработкой React приложений, так же мне интересен бэкенд Go.
 
