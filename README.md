@@ -12,7 +12,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/spec_ts) [![Email](https://img.shields.io/badge/-tolkinsl%40yandex.ru-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:tolkinsl@yandex.ru) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/tolkinsl/)
 
-<br>
 
 <!--
 **TolkinSL/TolkinSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
